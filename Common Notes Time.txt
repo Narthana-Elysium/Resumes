@@ -1,0 +1,3 @@
+1 one minute = 60 Sixty seconds ( 1 2 3 etc )
+1 one Hour = 3600 Three Thousand Six Hundrend seconds
+1 one Day = 24 Twenty Four Hours
