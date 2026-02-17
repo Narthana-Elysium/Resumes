@@ -4,7 +4,7 @@ narthana father ( s ) NARTHANA FATHER ( S )
 3 Rahim Raj
 4 Jackqueline Brothers or Family Men
 narthana mother ( s )  NARTHANA MOTHER ( S )
-1 Radhika Begum ( Merline ) - Merline Jacqueline Sister
+1 Radhika Begum ( Merline ) - Merline Jackqueline Sister
 2 Mina Kumari
 3 Grahalakshmy or Grajhalakshmy
 4 Varalakshmy
@@ -18,5 +18,6 @@ narthana mother ( s )  NARTHANA MOTHER ( S )
 Radha or Radhika Family ( s ) or Friend  ( s )
 narthana father and mother NARTHANA FATHER AND MOTHER
 12 Professor Leelavathi and Mani Thatha
+
 
 
