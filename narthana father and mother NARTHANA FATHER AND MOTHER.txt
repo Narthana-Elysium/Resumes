@@ -6,7 +6,7 @@ narthana father ( s ) NARTHANA FATHER ( S )
 5 Daddy and Mummy Family Men
 narthana mother ( s )  NARTHANA MOTHER ( S )
 1 Radhika Begum ( Merline ) - Merline Jackqueline Sister
-2 Mina Kumari
+2 Mina Kumari or Jasmine
 3 Grahalakshmy or Grajhalakshmy
 4 Varalakshmy
 5 Vijaylakshmy
@@ -20,6 +20,7 @@ narthana mother ( s )  NARTHANA MOTHER ( S )
 13 Daddy and Mummy Family Woman
 narthana father and mother NARTHANA FATHER AND MOTHER
 Professor Leelavathi and Mani Thatha
+
 
 
 
