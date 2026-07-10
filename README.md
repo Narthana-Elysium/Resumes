@@ -5,7 +5,7 @@ MY MOTHER IS
 3 MAINA KUMARI OR JASMINE ( NURSING FAIL , ACCOUNTING OR ACCOUNTANT WORK , SINGER , DANCER , ACTOR AND POLICE INFORMER OF BIHAR )
 4 RADHA ( RADHIKA ) MAINA TWIN SISTER
 5 JANAKI JANAGI
-6 GENE JENE
+6 GENE JENE ( TEACHER )
 FATHER IS 
 1 ROBERT RAJ POLICE
 2 RAHIM RAJ MILITARY
@@ -17,7 +17,7 @@ my mother is
 3 maina kumari or jasmine ( nursing fail , accounting or accountant work , singer , dancer , actor and police informer of bihar )
 4 radha ( radhika ) maina twin sister
 5 janaki janagi
-6 gene jene
+6 gene jene ( teacher )
 father is 
 1 robert raj police
 2 rahim raj military
