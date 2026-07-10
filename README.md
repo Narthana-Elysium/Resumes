@@ -4,6 +4,8 @@ MY MOTHER IS
 2 FARIDHA BEGUM OR MERCY ( CAKE MAKER , SINGER , DANCER AND NURSING GOLD MEDALIST )
 3 MAINA KUMARI OR JASMINE ( NURSING FAIL , ACCOUNTING OR ACCOUNTANT WORK , SINGER , DANCER , ACTOR AND POLICE INFORMER OF BIHAR )
 4 RADHA ( RADHIKA ) MAINA TWIN SISTER
+5 JANAKI JANAGI
+6 GENE JENE
 FATHER IS 
 1 ROBERT RAJ POLICE
 2 RAHIM RAJ MILITARY
@@ -14,6 +16,8 @@ my mother is
 2 faridha begum or mercy ( cake maker , singer , dancer and nursing gold medalist )
 3 maina kumari or jasmine ( nursing fail , accounting or accountant work , singer , dancer , actor and police informer of bihar )
 4 radha ( radhika ) maina twin sister
+5 janaki janagi
+6 gene jene
 father is 
 1 robert raj police
 2 rahim raj military
