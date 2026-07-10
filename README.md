@@ -9,7 +9,7 @@ MY MOTHER IS
 FATHER IS 
 1 ROBERT RAJ POLICE
 2 RAHIM RAJ MILITARY
-1 AND 2 GOPAL THAHA SON ( S ) ?
+1 AND 2 GOPAL THATHA SON ( S ) ?
 3 KRISHNA RAJ DENTIST
 my mother is 
 1 radhika begum or merline ( cake maker and nursing silver medalist )
@@ -21,7 +21,7 @@ my mother is
 father is 
 1 robert raj police
 2 rahim raj military
-1 and 2 gopal thaha son ( s ) ?
+1 and 2 gopal thatha son ( s ) ?
 3 krishna raj dentist
 RELEASES releases -> or OR ⬇️
 **RELEASES releases -> or OR ⬇️**
