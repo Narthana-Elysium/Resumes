@@ -1,4 +1,5 @@
-NARTHANA . K BCA / MCA DOB 19 - 3 MARCH - 1998 
+NARTHANA . K BCA / MCA DOB 19 - 3 MARCH March march - 1998
+notes NOTES Notes ( Notes 1 To Notes 6 ) - https://github.com/Narthana-Elysium
 MY MOTHER IS 
 1 RADHIKA BEGUM OR MERLINE ( CAKE MAKER AND NURSING SILVER MEDALIST )
 2 FARIDHA BEGUM OR MERCY ( CAKE MAKER , SINGER , DANCER AND NURSING GOLD MEDALIST )
@@ -23,11 +24,4 @@ father is
 2 rahim raj military
 1 and 2 gopal thatha son ( s ) ?
 3 krishna raj dentist
-RELEASES releases -> or OR ⬇️
-**RELEASES releases -> or OR ⬇️**
-RELEASES releases -> or OR ⬇️
-**RELEASES releases -> or OR ⬇️**
-PLUS plus + 8 or OR ANY NUMBER any number releases RELEASES notes NOTES Notes ( Notes 1 To Notes 6 ) 
-**PLUS plus + 8 or OR ANY NUMBER any number releases RELEASES notes NOTES Notes ( Notes 1 To Notes 6 )**
 https://drive.google.com/drive/folders/1KtyX4TefS44lA65KXutkVYVJxj2UPVeW
-
