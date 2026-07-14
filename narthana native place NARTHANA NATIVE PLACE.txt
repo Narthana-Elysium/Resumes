@@ -6,5 +6,5 @@ narthana native place is NARTHANA NATIVE PLACE IS
 6 MADURAI madurai
 7 rasipuram RASIPURAM
 8 kerala KERALA
------‐---‐---------------‐--------------------------------------------------------------
-9 coimbatore COIMBATORE 10 tanjore thanjavur TANJORE THANJAVUR 11 sri lanka SRI LANKA
+-----‐---‐---------------‐----------------------------------------------------------------------------------
+9 coimbatore COIMBATORE 10 tanjore thanjavur TANJORE THANJAVUR 11 sri lanka SRI LANKA 12 bangalore BANGALORE
